@@ -1,2 +1,3 @@
-# chatbot-evaluation-first-principles
+# Chatbot Evaluation First Principles
+
 Evaluating a chatbot from first principles
